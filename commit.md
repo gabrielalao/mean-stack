@@ -1,1 +1,1 @@
-4 node APIs created and changed 8/1/2018
+12 node APIs created and changed 8/6/2018
